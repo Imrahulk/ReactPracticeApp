@@ -1,0 +1,16 @@
+.mybutton {
+    background: red;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 50px;
+  }
+
+  .mydiv {
+
+    background: blue;
+  }
+
+  .myspan {
+    background: green;
+      
+}
